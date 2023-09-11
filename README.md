@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile, I'm <a href="https://vk.com/e.pynzar" target="_blank">Evgeniy</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30"/></h1>
 
 ---
 
