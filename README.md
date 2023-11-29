@@ -1,44 +1,43 @@
-<h1 align="center">Welcome to my profile, I'm <a href="https://vk.com/e.pynzar" target="_blank">Evgeniy</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30"/></h1>
+<h1 align="center">Добро пожаловать! Меня зовут <a href="https://vk.com/e.pynzar" target="_blank">Евгений</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30"/></h1>
+<p align="center"><a href="https://www.github.com/Pynzar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Pynzar?logo=github&style=for-the-badge&color=white&labelColor=black"  width="150"/></a></p>
 
 ---
-
-<p align="center">Bachelor - Economics and Organization Management | Master - Economics and Management of Organizations</p>
-
+<p align="center">Бакалавр - Мировая экономика, финансовые рынки и институты | Магистр - Экономика и управление организацией </p>
 
 ---
-Just a beginner in IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Только начинаю свой путь в IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
 ----
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
-<p align="center"><a href="https://www.github.com/Pynzar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Pynzar?logo=github&style=for-the-badge&color=white&labelColor=black"  width="150"/></a></p>
 </div>
 
-* 🌍  I'm based in ***Saint - Petersburg***
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-e.pynzar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/slammyone) [![vk_mail](https://img.shields.io/badge/vk_mail-%232E87FB.svg?&style=flat&logo=vk&logoColor=white)](mailto:e.pynzar@vk.com )
+### :man_technologist: Обо мне: 
+
+<p style="text" align="left";">Мне 25 лет :shipit: . Проживаю в Санкт-Петербурге. На протяжении 7 лет обучался в Политехническом университете Петра Великого на экономическом факультете. Решил изучить для себе что-то новое и изменить сферу деятельности. Медленно, но верно делаю свои первые шаги в обучении. Очень хочется попробовать свои силы в первой работе именно в этой области. На данный момент набираюсь опыта в теории, подкрепляя это решением базовых практических упражнений. </p>
+
+### 💻 Codewars:
+- Тренируюсь тут
+
+![codewars](https://www.codewars.com/users/e.pynzar/badges/large)
+### 💻 Пройденные курсы:
+
+| Курсы                                                                              | Сертификаты       |
+| ----------------------------------------------------------------                   | :---------------: |
+| [**"Поколение Python": курс для начинающих**](https://stepik.org/course/58852/)   | [:hand:](https://github.com/Pynzar/Diplomas-and-certificates/blob/main/Stepik%20Certificate%20Поколение%20Python%20курс%20для%20начинающих.pdf)|
+| [**"Поколение Python": курс для продвинутых**](https://stepik.org/course/68343/)  | <img src="https://media.tenor.com/nQJHRuTrRf0AAAAC/trying-try.gif" width="100"/> |
 
 
-### 🤝Socials
 
-<div id="badges" align="left">
-    <a href="https://t.me/slammyone" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://discord.com/users/slamonelove" target="_blank">
-      <img src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" width="40" height="40" alt="Discord"/>
-    </a>
-    <a href="https://vk.com/e.pynzar" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <a href="http://www.instagram.com/e.pynzar" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" alt="Instagram"/>
-    </a>
-</div>
-
+<h3 align="center">🤝Connect with me:</h3>
+<p align="center">
+<a href="https://t.me/slammyone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://discord.com/users/slamonelove" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
+<a href="https://vk.com/e.pynzar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
+<a href="http://www.instagram.com/e.pynzar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <div id="header" align="center">
-  
-  [![Codewars](https://github.r2v.ch/codewars?user=e.pynzar&hide_clan=true)](https://www.codewars.com/users/e.pynzar)
-
+   
+  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
+ 
