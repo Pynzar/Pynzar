@@ -36,5 +36,9 @@ Just a beginner in IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
     </a>
 </div>
 
-<!--
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Pynzar/Pynzar?style=for-the-badge&logo=github&color=white&labelColor=black" width="150">
+
+<div id="header" align="center">
+  
+  [![Codewars](https://github.r2v.ch/codewars?user=e.pynzar&hide_clan=true)](https://www.codewars.com/users/e.pynzar)
+
+</div>
