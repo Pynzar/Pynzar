@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
 </div>
 
-### :man_technologist: Обо мне: 
+### Обо мне: 
 
 <p style="text" align="left";">Мне 25 лет :shipit: . Проживаю в Санкт-Петербурге. На протяжении 7 лет обучался в Политехническом университете Петра Великого на экономическом факультете. Решил изучить для себе что-то новое и изменить сферу деятельности. Медленно, но верно делаю свои первые шаги в обучении. Очень хочется попробовать свои силы в первой работе именно в этой области. На данный момент набираюсь опыта в теории, подкрепляя это решением базовых практических упражнений. </p>
 
@@ -23,8 +23,8 @@
 
 | Курсы                                                                              | Сертификаты       |
 | ----------------------------------------------------------------                   | :---------------: |
-| [**"Поколение Python": курс для начинающих**](https://stepik.org/course/58852/)   | [:hand:](https://github.com/Pynzar/Diplomas-and-certificates/blob/main/Stepik%20Certificate%20Поколение%20Python%20курс%20для%20начинающих.pdf)|
-| [**"Поколение Python": курс для продвинутых**](https://stepik.org/course/68343/)  | <img src="https://media.tenor.com/nQJHRuTrRf0AAAAC/trying-try.gif" width="100"/> |
+| [**"Поколение Python": курс для начинающих**](https://stepik.org/course/58852/)   | [Посмотреть сертификат :hand:](https://github.com/Pynzar/Diplomas-and-certificates/blob/main/Stepik%20Certificate%20Поколение%20Python%20курс%20для%20начинающих.pdf)|
+| [**"Поколение Python": курс для продвинутых**](https://stepik.org/course/68343/)  | [Посмотреть сертификат :hand:](https://github.com/Pynzar/Diplomas-and-certificates/blob/main/Поколение%20Python_Курс%20для%20продвинутых.pdf)|
 
 
 
